@@ -31,12 +31,13 @@ Welcome to QA Verse – Your go-to platform for asking, answering, and exploring
   ```bash
  cd QA-verse
  ```
+ 3. Add the respective keys to you .env file as described in the .env.example
  
- 3. Install the dependencies
+ 4. Install the dependencies
  ```bash
  npm i
  ```
- 4. Run the Project
+ 5. Run the Project
  ```bash
  npm run dev
  ```
